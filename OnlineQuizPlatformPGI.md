@@ -58,4 +58,6 @@ To develop a SYSTEM_NAME APP that will help manage the ______ with the following
 ## G. Estimated Project Duration:
 
 
-Prepared by:
+Prepared by: Calda, Rodel
+             Camo, Lorenz
+             Decio, Rodel
